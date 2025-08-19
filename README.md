@@ -3,9 +3,9 @@ An expanded and enhanced version of OpenAI's MuseNet, with modern architecure an
 
 ## Samples (Alla Turca)
 
-https://github.com/user-attachments/assets/b57798f9-b89d-446f-a359-43ccd5989410
+https://github.com/user-attachments/files/21873485/406656471-b57798f9-b89d-446f-a359-43ccd5989410
 
-https://github.com/user-attachments/assets/47bff3d5-7b34-40a4-b141-8cedcb654072
+https://github.com/user-attachments/files/21873498/406656476-47bff3d5-7b34-40a4-b141-8cedcb654072
 
 3 Hours of music from scratch: https://www.youtube.com/watch?v=p6JX07dAwFw&t=6815s
 
